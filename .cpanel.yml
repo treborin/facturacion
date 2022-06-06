@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/homes2/sunonetes/public_html/facturaciion/
-    - /bin/cp -R / $DEPLOYPATH
+    - export DEPLOYPATH=/homes2/sunonetes/public_html/facturacion/
+    - /bin/cp -R public $DEPLOYPATH
     
